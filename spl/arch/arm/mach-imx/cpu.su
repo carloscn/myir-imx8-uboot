@@ -1,0 +1,6 @@
+cpu.c:306:5:cpu_eth_init	0	static
+cpu.c:322:5:cpu_mmc_init	0	static
+cpu.c:342:6:arch_preboot_os	0	static
+cpu.c:419:5:get_cpu_speed_grade_hz	32	static
+cpu.c:456:5:get_cpu_temp_grade	0	static
+cpu.c:488:18:get_boot_device	16	static

@@ -1,0 +1,12 @@
+imx8mq_evk.c:57:5:board_qspi_init	16	static
+imx8mq_evk.c:72:5:board_early_init_f	16	static
+imx8mq_evk.c:86:5:board_postclk_init	0	static
+imx8mq_evk.c:93:5:dram_init	0	static
+imx8mq_evk.c:105:5:ft_board_setup	0	static
+imx8mq_evk.c:142:5:board_phy_config	32	static
+imx8mq_evk.c:184:5:usb_gadget_handle_interrupts	16	static
+imx8mq_evk.c:258:5:board_usb_init	32	static
+imx8mq_evk.c:279:5:board_usb_cleanup	32	static
+imx8mq_evk.c:296:5:board_init	16	static
+imx8mq_evk.c:314:5:board_mmc_get_env_dev	0	static
+imx8mq_evk.c:319:5:board_late_init	16	static
